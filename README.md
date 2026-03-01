@@ -1,3 +1,7 @@
+ajhanana
+a
+jajajajjaja
+amnan
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
