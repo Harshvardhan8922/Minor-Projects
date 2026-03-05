@@ -1,3 +1,6 @@
+ajhahahaja
+anjajajajaj
+najajajaja
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
