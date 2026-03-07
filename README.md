@@ -1,7 +1,3 @@
-vbbnnmkk
-mjhbb
-mhhvb
-jhhn
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
