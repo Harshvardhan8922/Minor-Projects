@@ -1,6 +1,3 @@
-manahshs
-anjsjajsja
-anjajsjsjsjs
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
