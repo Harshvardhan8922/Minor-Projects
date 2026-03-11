@@ -1,7 +1,3 @@
-nJJa
-majajaka
-majakakkaa
-jajajajjaja
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
