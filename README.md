@@ -1,3 +1,8 @@
+MNnanana
+amnajanama
+
+majajanana
+majajanaka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
