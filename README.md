@@ -1,3 +1,7 @@
+nababanan
+a
+maamanmaa
+mananmanama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
