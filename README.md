@@ -1,3 +1,10 @@
+whjajana
+
+amnanakaka
+
+manamammama
+
+jajajajajna
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
