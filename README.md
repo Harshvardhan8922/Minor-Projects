@@ -1,8 +1,3 @@
-anhanaa
-anhajaja
-najajaja
-jajajajja
-nanananana
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
