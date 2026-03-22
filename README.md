@@ -1,3 +1,9 @@
+nzbabana
+manakajak
+anajjajaja
+ajjajajaja
+annajajajaj
+amjajajajaja
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
