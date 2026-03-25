@@ -1,7 +1,3 @@
-nananans
-smajajans
-amanajnsns
-anansnajnsns
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
