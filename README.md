@@ -1,7 +1,3 @@
-abbababaha
-amannanana
-najajajajaj
-ajajajjajajaj
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
