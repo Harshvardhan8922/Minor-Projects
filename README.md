@@ -1,3 +1,6 @@
+anannanana
+amanajjanana
+amanjajajajaj
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
