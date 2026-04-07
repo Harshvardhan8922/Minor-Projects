@@ -1,3 +1,7 @@
+bHabahahah
+ammanananan
+amnjanjajaj
+anjajaja
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
