@@ -1,7 +1,3 @@
-ajahhahahaha
-amanjananan
-manakajjana
-ajkakakak
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
