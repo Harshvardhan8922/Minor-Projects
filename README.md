@@ -1,8 +1,3 @@
-nsnajajja
-amkakakak
-majjajajaka
-amkakakakka
-
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
