@@ -1,3 +1,7 @@
+ajabhshaa
+amnananana
+amamnananna
+MNmananamma
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
