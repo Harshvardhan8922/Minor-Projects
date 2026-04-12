@@ -1,3 +1,7 @@
+wjjajajanna
+ammakakakka
+amakakakakak
+akajjajajajan
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
