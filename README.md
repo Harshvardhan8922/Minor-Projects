@@ -79,7 +79,16 @@ Each project focuses on simplicity while maintaining good coding practices, maki
 🧠 Easy to understand for beginners
 🏫 Perfect minor project for college submissions.
 -------------------------------------------------------------------------------------------
-
+Project 7: Todo List Web App
+- This project is designed for beginners to understand how frontend technologies work together to build a real-world application.
+- It strengthens core concepts and improves problem-solving skills in JavaScript.
+➕ Add Tasks – Easily add new tasks to your list
+❌ Delete Tasks – Remove tasks that are no longer needed
+✅ Mark as Completed – Strike through completed tasks
+💾 Local Storage Support – Saves tasks even after page refresh
+📱 Responsive Design – Works smoothly on mobile, tablet, and desktop
+⚡ Real-Time Updates – Instant UI updates using JavaScript
+-------------------------------------------------------------------------------------------
 ## 🛠️ Future Projects (Coming Soon)
 More projects will be added over time, including:
 - Registration forms  
