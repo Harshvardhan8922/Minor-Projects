@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>To-Do List</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Top Navigation Bar -->
+  <nav class="navbar">
+    <div class="logo">&#10003; TaskMate</div>
+    <div class="date-time" id="datetime"></div>
+  </nav>
+
+  <!-- Main Content -->
+  <main class="main">
+
+    <!-- Stats Section -->
+    <div class="stats-row">
+      <div class="stat-card">
+        <span class="stat-num" id="total-count">0</span>
+        <span class="stat-label">Total</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-num" id="active-count">0</span>
+        <span class="stat-label">Active</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-num" id="done-count">0</span>
+        <span class="stat-label">Done</span>
+      </div>
+    </div>
+
+    <!-- Add Task Box -->
+    <div class="add-box">
+      <h2 class="add-title">Add a New Task</h2>
+      <div class="add-row">
+        <input
+          type="text"
+          id="task-input"
+          class="task-input"
+          placeholder="What do you need to do today?"
+          maxlength="120"
+        />
+        <button class="add-btn" id="add-btn">+ Add Task</button>
+      </div>
+
+      <!-- Priority Selector -->
+      <div class="priority-row">
+        <span class="priority-label">Priority:</span>
+        <button class="priority-btn active" data-priority="low">🟢 Low</button>
+        <button class="priority-btn" data-priority="medium">🟡 Medium</button>
+        <button class="priority-btn" data-priority="high">🔴 High</button>
+      </div>
+    </div>
+
+    <!-- Filter Tabs -->
+    <div class="filter-row">
+      <button class="filter-btn active" data-filter="all">All Tasks</button>
+      <button class="filter-btn" data-filter="active">Active</button>
+      <button class="filter-btn" data-filter="done">Completed</button>
+    </div>
+
+    <!-- Search Bar -->
+    <div class="search-wrap">
+      <input
+        type="text"
+        id="search-input"
+        class="search-input"
+        placeholder="&#128269; Search tasks..."
+      />
+    </div>
+
+    <!-- Task List -->
+    <div class="task-list" id="task-list"></div>
+
+    <!-- Bottom Footer -->
+    <div class="list-footer">
+      <span id="footer-count">0 tasks remaining</span>
+      <button class="clear-btn" id="clear-btn">&#128465; Clear Completed</button>
+    </div>
+
+  </main>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
