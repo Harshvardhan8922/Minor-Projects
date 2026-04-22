@@ -1,6 +1,3 @@
-nananajahja
-amkanajaknanan
-amkakakkakakka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
