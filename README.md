@@ -1,7 +1,3 @@
-nabahahaha
-anajajjaja
-ananjajaj
-jajajjajaja
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
