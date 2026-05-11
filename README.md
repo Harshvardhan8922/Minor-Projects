@@ -1,3 +1,6 @@
+ananannana
+auahaskw
+skwkasoowjw
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
