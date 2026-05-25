@@ -1,9 +1,3 @@
-anbshsha
-Mjsjakakma
-nzjiaka
-ahzhajam
-a
-jajajama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
