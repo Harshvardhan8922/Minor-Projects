@@ -1,7 +1,3 @@
-jajsjejejsms
-skkskkswkmws
-mskskskskskks
-smskkskskekem
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
