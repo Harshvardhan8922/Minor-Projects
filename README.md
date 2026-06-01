@@ -1,6 +1,3 @@
-yhsgshahaja
-a.jsjduchsha
-amsuudwjqna
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
