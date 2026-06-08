@@ -1,3 +1,6 @@
+uahahshsha
+amajshhshsjw
+amsjsjjsjwjw
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
