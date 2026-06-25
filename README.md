@@ -1,4 +1,6 @@
-# 🚀 Minor Programming Project Collection
+anhahahabnaa
+majajajjajma
+ajajajjajajaj# 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
 This repository contains a collection of **minor projects** that are **easy to build**, **reliable**, and **perfect for college students and beginners**.  
