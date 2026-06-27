@@ -1,7 +1,3 @@
-jajahshaha
-amajajsjwjw
-amajwjwjjww
-amjajskwkwk
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
