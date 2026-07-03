@@ -1,7 +1,3 @@
-nabahhajaa
-amanjaja
-amanakakka
-amajakakja
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
