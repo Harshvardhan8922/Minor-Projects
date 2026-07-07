@@ -1,3 +1,7 @@
+ananbabaha
+amanajajaj
+amananjaja
+amamankaka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
