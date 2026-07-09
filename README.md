@@ -1,6 +1,3 @@
-sjjsnsjsjs
-akakakakas
-ksiskskskka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
