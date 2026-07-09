@@ -1,7 +1,3 @@
-ajjahaha
-a
-smmakaksk
-amanakakks
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
