@@ -1,3 +1,7 @@
+Jajajjaja
+amajajakak
+amanakkaka
+makkakajaj
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
