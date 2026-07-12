@@ -1,3 +1,7 @@
+sjjsjahamakwkw
+smkskskskskwkw
+wmwkwkwkwkkwkwmwkwkkw
+amakskskksksks
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
