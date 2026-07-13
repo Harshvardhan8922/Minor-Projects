@@ -1,7 +1,3 @@
-ahhshshah
-kakakaka
-ammakakaka
-makakakak
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
