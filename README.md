@@ -1,7 +1,3 @@
-wjnanajajja
-amaakakkaka
-amakakkakak
-amamamamkaa
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
