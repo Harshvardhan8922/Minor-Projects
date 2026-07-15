@@ -1,7 +1,3 @@
-snnsnsnana
-ammaakkaka
-ammakakaka
-makakansnks
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
