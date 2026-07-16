@@ -1,7 +1,3 @@
-snahhahaha
-amkakakakjajajajaj
-ammakakakak
-amakkakakak
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
