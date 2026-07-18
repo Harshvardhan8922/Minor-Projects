@@ -1,7 +1,3 @@
-snnanajaj
-amanakaka
-amkakakakaj
-amanjakaka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
