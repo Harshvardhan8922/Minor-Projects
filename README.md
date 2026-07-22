@@ -1,7 +1,3 @@
-ahbanaja
-amananan
-amakksja
-akanajs
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
