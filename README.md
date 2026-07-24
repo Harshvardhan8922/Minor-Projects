@@ -1,3 +1,7 @@
+hahshshssh
+amananajjans
+amanakakakak
+amakakskskks
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
