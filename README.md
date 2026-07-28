@@ -1,7 +1,3 @@
-bhffghhshaga
-ananjajajaha
-anannanajaha
-ananjajajaja
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
