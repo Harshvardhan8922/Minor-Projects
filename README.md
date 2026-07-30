@@ -1,3 +1,7 @@
+nNahahana
+anjanajaja
+amanajjanaa
+ananajnanamm
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
