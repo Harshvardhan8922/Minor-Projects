@@ -1,7 +1,3 @@
-jahahahaha
-amjsjsjsjs
-ajajjsnsms
-jsjsjsjsjs
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
