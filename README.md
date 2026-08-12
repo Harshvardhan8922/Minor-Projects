@@ -1,7 +1,3 @@
-jajajajaja
-mamamammaa
-mamakakaka
-mskkskskss
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
