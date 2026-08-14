@@ -1,9 +1,3 @@
-hhhggthhghhahah
-
-ajjajajajajajaja
-amjajajajaj
-Mkajakajaja
-nNanannanan
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
