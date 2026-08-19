@@ -1,7 +1,3 @@
-bababajana
-amankakakaka
-ammakakakana
-amanammamama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
