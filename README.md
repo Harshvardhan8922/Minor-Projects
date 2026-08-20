@@ -1,7 +1,3 @@
-nsnanajaha
-amankakaja
-ammakakaka
-akkakakaka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
