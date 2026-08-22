@@ -1,7 +1,3 @@
-nanananana
-amanmanama
-amanmamaka
-amammakakak
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
