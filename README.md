@@ -1,7 +1,3 @@
-bababahaha
-mamammM
-Mkakaksjsjs
-amjajajaj
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
