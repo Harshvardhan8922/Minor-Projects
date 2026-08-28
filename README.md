@@ -1,8 +1,3 @@
-jananana
-a
-ammakaka
-amamammaa
-amamammama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
