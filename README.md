@@ -1,7 +1,3 @@
-hananajaa
-amankakaa
-ammanakams
-ammanaksks
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
