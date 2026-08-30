@@ -1,7 +1,3 @@
-jajajaja
-amakakka
-amakkska
-kakakama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
