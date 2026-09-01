@@ -1,7 +1,3 @@
-bananamaa
-mamakakska
-amkakakaka
-ajanjskaka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
