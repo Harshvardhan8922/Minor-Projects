@@ -1,3 +1,7 @@
+sbbabanaa
+manajakkas
+amakksksks
+smsnksksks
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
