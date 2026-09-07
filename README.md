@@ -1,3 +1,7 @@
+janananaa
+amanmakaja
+ammakakama
+amkakakaks
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
