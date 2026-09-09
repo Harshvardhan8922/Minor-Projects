@@ -1,7 +1,3 @@
-ajjajaha
-amakakska
-ammaska
-makaksk
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
