@@ -1,7 +1,3 @@
-hhhhhhhj
-nhhhhnm
-njnjjhj
-njnjjjjj
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
