@@ -1,7 +1,3 @@
-abbananaa
-mananakka
-amamkaka
-smakakaka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
