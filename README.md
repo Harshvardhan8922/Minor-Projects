@@ -1,7 +1,3 @@
-nanananana
-ammamamama
-akakkskams
-mamamsmama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
