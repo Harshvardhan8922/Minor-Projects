@@ -1,3 +1,7 @@
+jsnajaja
+amakaksks
+amakkaksks
+amaksksksm
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
