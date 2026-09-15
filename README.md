@@ -1,8 +1,3 @@
-ajnanana
-a
-makakakkaa
-mamakakaka
-makakakama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
