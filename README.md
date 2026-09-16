@@ -1,7 +1,3 @@
-hahahahaa
-makakakaka
-amakkakaka
-amamammama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
