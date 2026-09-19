@@ -1,7 +1,3 @@
-annanaja
-amammakaka
-amamakaka
-ammakakaka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
