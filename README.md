@@ -1,3 +1,7 @@
+nansnans
+smmsksms
+msmskksks.zmjs
+zmsnmsmsm
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
