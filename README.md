@@ -1,7 +1,3 @@
-banana
-amanmama
-amananma
-mammama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
