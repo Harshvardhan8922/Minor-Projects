@@ -1,7 +1,3 @@
-hshahshs
-amsnnsns
-smsnsnns.smnsns
-msmmamsms
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
