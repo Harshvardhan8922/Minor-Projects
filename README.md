@@ -1,7 +1,3 @@
-janajajan
-mamamammaa
-mamamamma
-mamamama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
