@@ -1,7 +1,3 @@
-jsnakama
-ammakakam
-ammakakma
-mamamakam
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
