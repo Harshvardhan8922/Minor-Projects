@@ -1,3 +1,7 @@
+nsnanan
+amammaam
+amammamama
+amamammama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
