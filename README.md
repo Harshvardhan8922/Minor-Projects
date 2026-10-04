@@ -1,3 +1,8 @@
+sbbababa
+amammamamammama
+a
+ammama
+amamamma
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
