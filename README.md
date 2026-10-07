@@ -1,7 +1,3 @@
-hahahha
-smnanam
-msmmama
-ammamaa
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
