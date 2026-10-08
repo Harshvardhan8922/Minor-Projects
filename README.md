@@ -1,3 +1,9 @@
+akmanam
+a
+amamma
+amam
+
+kamamama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
