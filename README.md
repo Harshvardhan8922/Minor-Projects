@@ -1,7 +1,3 @@
-babahaha
-ammamamama
-amamamamma
-amammamama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
