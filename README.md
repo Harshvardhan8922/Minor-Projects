@@ -1,9 +1,3 @@
-ejbsbsnaak
-amammamaamama
-mamamamama
-a
-amamamamamma
-a
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
