@@ -1,3 +1,10 @@
+bsbsjaja
+amammaka
+amamsmsms.smsmsm
+a
+msmsms
+s
+amamma
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
