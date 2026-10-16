@@ -1,3 +1,7 @@
+znjanana
+amakakkaka
+amamammama
+amamamsmma
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
