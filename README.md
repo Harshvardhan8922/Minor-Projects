@@ -1,7 +1,3 @@
-sbbNan
-mamamama
-amamamma
-mamamama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
