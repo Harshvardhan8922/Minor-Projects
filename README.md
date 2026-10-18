@@ -1,7 +1,3 @@
-snnana
-s.smsmms
-smsmsmsm
-smsmsmsm
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
