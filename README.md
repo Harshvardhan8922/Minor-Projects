@@ -1,3 +1,7 @@
+akkakak
+amaammammamama
+amamammama
+amamamsmsm
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
