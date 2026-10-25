@@ -1,7 +1,3 @@
-wmamanan
-amamamamam
-amamamamma
-amamamama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
