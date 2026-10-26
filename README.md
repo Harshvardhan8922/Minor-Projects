@@ -1,7 +1,3 @@
-annanana
-a.amamama
-ammamamma
-amammamama.
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
