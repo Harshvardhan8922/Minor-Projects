@@ -1,7 +1,3 @@
-babaaha
-shahahah
-ahashahha
-ahhahahaha
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
