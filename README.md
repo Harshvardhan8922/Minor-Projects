@@ -1,7 +1,3 @@
-bananan
-amakakak
-amamamam
-amamamam
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
