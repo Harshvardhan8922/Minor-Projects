@@ -1,7 +1,3 @@
-shsnajna
-amamamam
-amammama
-amamamsms
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
