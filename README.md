@@ -1,7 +1,3 @@
-ajjanana
-amamkakak
-amamammaa
-mamamamam
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
