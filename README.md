@@ -1,3 +1,6 @@
+wijajsjs
+amamamma
+amammamams
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
