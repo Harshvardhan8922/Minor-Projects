@@ -1,7 +1,3 @@
-bahanana
-amammamam
-ammamsmsm
-smmamsms
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
