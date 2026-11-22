@@ -1,7 +1,3 @@
-hahahaha
-manansns
-mamaksks
-ammanaka
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
