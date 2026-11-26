@@ -1,3 +1,7 @@
+hahahaha
+amankakaa
+ammanakaka.amakak
+ammamamama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
