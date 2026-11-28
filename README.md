@@ -1,3 +1,7 @@
+hahahaha
+amansjnsa
+makaksksma
+amkakanama
 # 🚀 Minor Programming Project Collection
 
 ## 📌 About This Repository
